@@ -1,0 +1,3 @@
+Switch this directory with the keras subdirectory of the directory_1 to train the BNN.
+
+It yields the results given in the results subdirectory
